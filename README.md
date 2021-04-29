@@ -1,7 +1,5 @@
-# React Template
+# Lord of the Rings API - using React
 
-**Use this template to get up and running quickly on projects.**
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24decf90-126d-492e-8799-f05ce6bacc06/deploy-status)](https://app.netlify.com/sites/cs-lotr-api/deploys)
 
-This is just like the webpack template. Use it, create the repo, connect it to your local and `npm i`.
-
-- [Steps to deploy](https://github.com/nss-nightclass-projects/REACT-Deployment-Netlify)
+https://cs-lotr-api.netlify.app/
