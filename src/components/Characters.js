@@ -23,7 +23,7 @@ const Characters = ({
     setIsFlipped(!isFlipped);
   };
   return (
-    <div>
+    <div className='container'>
       <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
       <Card body key={id}>
         <CardTitle tag="h5">{name}</CardTitle>

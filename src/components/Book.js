@@ -18,7 +18,7 @@ const Book = ({
     setShowChapter((prevState) => !prevState);
   };
   return (
-    <div>
+    <div className='list-group'>
       <Card body key={id}>
         <CardTitle tag="h5">{name}</CardTitle>
         <Button
