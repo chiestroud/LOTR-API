@@ -25,14 +25,16 @@ const Characters = ({
   return (
     <div>
       <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
-      <Card body key={id}>
-        <CardTitle tag="h5">{name}</CardTitle>
-        <Button
-          color='info'
-          id={id}
-          onClick={handleClick}
-        >Show Quote</Button>
-      </Card>
+        <div className="container">
+          <Card body key={id} >
+            <CardTitle tag="h5">{name}</CardTitle>
+            <Button
+              color='info'
+              id={id}
+              onClick={handleClick}
+            >Show Quote</Button>
+          </Card>
+        </div>
       {showQuotes
           && <Card body key={id}>
           <CardTitle tag="h5">{name}</CardTitle>
