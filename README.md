@@ -10,7 +10,7 @@ Movie page shows all the details about each LOTR movie.
 Book page shows all the books and chapters with button click.
 
 <ul>
-  <li><img src="./assets/books.png" width="400px"></li>
-  <li><img src="./assets/movies.png" width="400px"></li>
-  <li><img src="./assets/quotes.png" width="400px"></li>
+  <li><img src="./src/assets/books.png" width="400px"></li>
+  <li><img src="./src/assets/movies.png" width="400px"></li>
+  <li><img src="./src/assets/quotes.png" width="400px"></li>
 </ul>
