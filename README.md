@@ -5,12 +5,12 @@
 https://cs-lotr-api.netlify.app/
 
 ## Screenshot
-Character page shows LOTR characters and when you click button, shows the character's quotes. (Not all characters have quotes.)
-Movie page shows all the details about each LOTR movie.
-Book page shows all the books and chapters with button click.
+1. Character page shows LOTR characters and when you click button, shows the character's quotes. (Not all characters have quotes.)
+2. Movie page shows all the details about each LOTR movie.
+3. Book page shows all the books and chapters with button click.
 
-<ul>
-  <li><img src="./src/assets/books.png" width="400px"></li>
-  <li><img src="./src/assets/movies.png" width="400px"></li>
-  <li><img src="./src/assets/quotes.png" width="400px"></li>
-</ul>
+<ol>
+  <li><img src="./src/assets/books.png" width="800px"></li>
+  <li><img src="./src/assets/movies.png" width="800px"></li>
+  <li><img src="./src/assets/quotes.png" width="800px"></li>
+</ol>
