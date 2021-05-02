@@ -21,7 +21,7 @@ const Movie = ({
             <ListGroupItem>Box Office Revenue: ${boxOfficeRevenueInMillions} Million</ListGroupItem>
             <ListGroupItem>Academy Award Nominations: {academyAwardNominations} times</ListGroupItem>
             <ListGroupItem>Academy Award Wins: {academyAwardWins} times</ListGroupItem>
-            <ListGroupItem>Rotten Tomate Scpre: {rottenTomatesScore}</ListGroupItem>
+            <ListGroupItem>Rotten Tomate Score: {rottenTomatesScore}</ListGroupItem>
           </ListGroup>
       </Card>
     </div>
